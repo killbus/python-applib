@@ -1,0 +1,4 @@
+requests
+colorlog
+coloredlogs
+loguru
